@@ -4,54 +4,61 @@ Morris.Area({
         element: 'morris-area-chart',
         data: [{
             period: '2010',
-            Axe: 1.2,
-            Dove: 1.4,
-            Lux: 1.8,
-            Rexona: 2,
-            Lifebuoy: 0.8
+            Budweiser: 1.0,
+            Corona: 0.7,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }, {
             period: '2011',
-            Axe: 1.28,
-            Dove: 1.5,
-            Lux: 1.9,
-            Rexona: 1.8,
-            Lifebuoy: 1
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }, {
             period: '2012',
-            Axe: 1.35,
-            Dove: 1.6,
-            Lux: 1.6,
-            Rexona: 1.5,
-            Lifebuoy: 1.2
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }, {
             period: '2013',
-            Axe: 1.4,
-            Dove: 1.8,
-            Lux: 1.6,
-            Rexona: 1.7,
-            Lifebuoy: 1.4
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }, {
             period: '2014',
-            Axe: 1.5,
-            Dove: 2,
-            Lux: 1.75,
-            Rexona: 1.5,
-            Lifebuoy: 1.6
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }, {
             period: '2015',
-            Axe: 1.63,
-            Dove: 1.95,
-            Lux: 1.85,
-            Rexona: 1.7,
-            Lifebuoy: 1.75
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         },
          {
             period: '2016',
-            Axe: 1.89,
-            Dove: 1.98,
-            Lux: 1.93,
-            Rexona: 1.98,
-            Lifebuoy: 2
+            Budweiser: 1.2,
+            Corona: 1.4,
+            Hoegarden: 1.8,
+            Stella Artois: 2,
+            HoeKeg: 0.8,
+            Leffe: 0.1
         }],
         xkey: 'period',
         ykeys: ['Axe', 'Dove', 'Lux', 'Rexona', 'Lifebuoy'],
